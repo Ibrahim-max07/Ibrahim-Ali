@@ -23,7 +23,7 @@ Other findings:
 Attrition status is evenly spread across departments — no red flags
 Remote employees show a slightly lower Poor-performance rate (19.9%) than office employees (22.5%)
 
-[project.png]
+https://github.com/Ibrahim-max07/Ibrahim-Ali/blob/main/project.png
 
 2. Zomato Delivery Dashboard (in progress)
 
